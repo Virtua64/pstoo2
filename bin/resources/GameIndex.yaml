@@ -1967,6 +1967,7 @@ SCAJ-20125:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -1977,6 +1978,7 @@ SCAJ-20126:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -2454,6 +2456,7 @@ SCAJ-20199:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -4149,6 +4152,7 @@ SCED-53538:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -5769,6 +5773,7 @@ SCES-53202:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -7212,6 +7217,7 @@ SCKA-20049:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -7435,6 +7441,7 @@ SCKA-20081:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -57371,6 +57378,7 @@ SLPS-25510:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1 # Fixes vertical lines.
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -60540,6 +60548,7 @@ SLPS-73223:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1 # Fixes vertical lines.
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -66541,6 +66550,7 @@ SLUS-21059:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1 # Fixes vertical lines.
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
@@ -67085,6 +67095,7 @@ SLUS-21160:
   clampModes:
     eeClampMode: 2 # Fixes camera and stops constant coin noises on Pirates Cove.
   gsHWFixes:
+    textureInsideRT: 1 # Fixes heat haze half screen problem.
     alignSprite: 1 # Fixes vertical lines.
     halfPixelOffset: 4 # Align post.
     nativeScaling: 1 # Fixes depth of field effect.
